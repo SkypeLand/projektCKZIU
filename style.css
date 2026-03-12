@@ -5,16 +5,6 @@
   padding: 0;
 }
 
-:root {
-  --cream: #f9f5ef;
-  --ink: #1a1a2e;
-  --accent: #c0392b;
-  --muted: #7f8c8d;
-  --border: #ddd5c8;
-  --card-bg: #ffffff;
-  --shadow: 0 4px 24px rgba(0,0,0,0.08);
-}
-
 body {
   font-family: sans-serif;
   background-color: #f9f5ef;
