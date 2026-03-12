@@ -1,0 +1,128 @@
+[
+    {
+        "Value": "szczecin",
+        "Miasto": "Szczecin",
+        "Ciekawostki": "Szczecin jest otoczony przez trzy duże kompleksy leśne: Puszcza Wkrzańska, Puszcza Bukowa oraz Puszcz Goleniowska. W mieście znajduje się również Szczeciński Park Krajobrazowy Puszcza Bukowa. W okolicach miasta znajdują się obszary ochronne przyrody jak np. Dolina Dolnej Odry w której znajduje się wiele zagrożonych gatunków ptaków",
+        "Atrakcje": "Bazylika Archikatedralna św. Jakuba, Czerwony szlak, Filharmonia im. Mieczysława Karłowicza, Wały Chrobrego, Zamek Książąt Pomorskich, Jezioro Szmaragdowe, Wiskord Big Tower",
+        "Położenie": 104030
+    },
+    {
+        "Value": "bydgoszcz",
+        "Miasto": "Bydgoszcz",
+        "Ciekawostki": "Przy al. Ossolińskich znajduje się Dębowa Aleja Zasłużonych. Swoje drzewa mają tam między innymi papież Jan Paweł II, malarz i grafik Leon Wyczółkowski czy pisarz Tadeusz Nowakowski. Na ulicach Bydgoszczy można również w pniach obumarłych drzew znaleźć rzeźby których autorem jest Zbyszko Piwoński",
+        "Atrakcje": "Wyspa Młyńska, Wenecja Bydgoska, Muzeum Mydła i Historii Brudu, Stary Rynek, Stare Miasto, Kanał Bydgoski",
+        "Położenie": 555555
+    },
+    {
+        "Value": "torun",
+        "Miasto": "Toruń",
+        "Ciekawostki": "Wisła w Toruniu jest jedną z najbardziej naturalnych części tej rzeki w Polsce - w okolicy żyje wiele gatunków ptaków wodnych i można spotkać nawet bobry. Kępa Bazarowa to wyspa na Wiśle będąca rezerwatem przyrody - chroni się tam naturalny las łęgowy. W Toruniu znajdują się naturalne wydmy śródlądowe powstałe po ostatniej epoce lodowcowej. Piasek naniosły wiatry z doliny Wisła, dlatego w niektórych miejscach teren przypomina małą pustynię.",
+        "Atrakcje": "Stare Miasto w Toruniu - średniowieczna starówka wpisana na listę UNESCO. Dom Mikołaja Kopernika - muzeum w domu, gdzie urodził się słynny astronom. Planetarium w Toruniu - jedno z najciekawszych planetariów w Polsce.",
+        "Położenie": 555555
+    },
+    {
+        "Value": "olsztyn",
+        "Miasto": "Olsztyn",
+        "Ciekawostki": "Pojezierze Olsztyńskie - w granicach miasta znajduje się aż 11 jezior. Największe z nich to Jezioro Ukiel, które ma bardzo czystą wodę i popularne plaże. Olsztyn otaczają ogromne lasy Puszcza Napiwodzko-Ramucka, gdzie żyją wilki, jelenie i rysie.",
+        "Atrakcje": "Zamek Kapituły Warmińskiej w Olsztynie - pracował tu kiedyś Kopernik. Stare Miasto w Olsztynie - małe, ale bardzo klimatyczne uliczki. Obserwatorium Astronomiczne w Olsztynie - jedno z ciekawszych miejsc dla fanów kosmosu.",
+        "Położenie": 555555
+    },
+    {
+        "Value": "bialystok",
+        "Miasto": "Białystok",
+        "Ciekawostki": "Miasto leży bardzo blisko Puszcza Knyszyńska, jednego z największych kompleksów leśnych w Polsce. Niedaleko znajduje się też słynny Biebrzański Park Narodowy, znany z bagien i łosi. W okolicy Białegostoku można spotkać rzadkie ptaki bagienne - np. bataliony i wodniczki.",
+        "Atrakcje": "Pałac Branickich w Białymstoku - nazywany „polskim Wersalem”. Rynek Kościuszki w Białymstoku - główny plac miasta z ratuszem. Park Planty w Białymstoku - duży park idealny na spacer.",
+        "Położenie": 555555
+    },
+    {
+        "Value": "lublin",
+        "Miasto": "Lublin",
+        "Ciekawostki": "W Lublinie znajduje się rezerwat przyrody Stasin, który chroni rzadkie gatunki roślin, takich jak: brzoza czarna, lilia złotogłów, listera jajowata, storczyk szerokolistny, kruszczyk szerokolistny czy bagno zwyczajne-to jeden z niewielu takich obszarów w Polsce. Przez miasto przepływa rzeka Bystrzyca, nad którą powstał duży zbiornik wodny używany do rekreacji. W okolicach Lublina można spotkać wiele rzadkich ptaków wodnych, szczególnie w dolinie rzeki Bystrzycy.",
+        "Atrakcje": "Zamek Lubelski- średniowieczny zamek z kaplicą Trójcy Świętej ze słynnymi freskami. Stare miasto w Lublinie- jedna z najlepiej zachowanych starówek w Polsce. Ogród Saski w Lublinie- piękny park miejski z XIX wieku. ",
+        "Położenie": 555555
+    },
+    {
+        "Value": "wroclaw",
+        "Miasto": "Wrocław",
+        "Ciekawostki": "Wrocław leży nad rzeką Odra, która dzieli miasto na liczne wyspy - jest ich ponad 10. W mieście jest ponad 100 mostów, dlatego bywa nazywane „polską Wenecją”. Znajduje się tu ogromny ogród zoologiczny Wrocław Zoo, który jest najstarszym zoo w Polsce.",
+        "Atrakcje": "Rynek we Wrocławiu -jeden z największych rynków w Europie z kolorowymi kamienicami. Hala stulecia -obiekt wpisany na listę UNESCO. Ostrów Tumski- najstarsza część miasta z piękną katedrą.",
+        "Położenie": 555555
+    },
+    {
+        "Value": "opole",
+        "Miasto": "Opole",
+        "Ciekawostki": "Przez Opole przepływa rzeka Odra, która tworzy malownicze wyspy i kanały. W mieście znajduje się zielona wyspa Wyspa Bolko, która jest ważnym miejscem spacerów i siedliskiem wielu ptaków. Niedaleko Opola znajdują się liczne lasy i obszary chronione z bogatą fauną i florą.",
+        "Atrakcje": "Rynek w Opolu -urokliwy rynek z kolorowymi kamienicami. Wieża Piastowska - pozostałość po dawnym zamku książąt opolskich. Amfiteart Tysiąclecia -miejsce słynnego festiwalu muzycznego.",
+        "Położenie": 555555
+    },
+    {
+        "Value": "gorzow",
+        "Miasto": "Gorzów Wielkopolski",
+        "Ciekawostki": "Gorzów Wielkopolski leży nad rzeką Warta, która jest jedną z największych rzek w Polsce. Rzeka tworzy w okolicy liczne starorzecza i tereny podmokłe, gdzie żyje wiele ptaków, można tu spotkać np. czaple, kaczki i łabędzie, dolina Warty jest ważnym korytarzem migracyjnym dla ptaków. Niedaleko miasta rozciąga się Puszcza Gorzowska. To jeden z większych kompleksów leśnych w zachodniej Polsce. Dominują tam lasy sosnowe, ale rosną też dęby i brzozy. Żyją tam m.in. sarny, jelenie, dziki i lisy, dzięki temu okolice Gorzowa są bardzo dobre do wycieczek pieszych i rowerowych. W dolinie Warty i w pobliskich rzekach żyje Bóbr europejski, bobry budują tamy i żeremia z gałęzi i błota, dzięki ich działalności powstają małe stawy i mokradła, takie miejsca stają się siedliskiem dla wielu innych zwierząt.",
+        "Atrakcje": "Katedra Wniebowzięcia Najświętszej Maryi Panny w Gorzowie Wielkopolskim to najstarszy i najbardziej charakterystyczny zabytek miasta. Bulwary nad rzeką Warta (Bulwar Nadwarciański). Barlinecko-Gorzowski Park Krajobrazowy (około 30 km od miasta)",
+        "Położenie": 555555
+    },
+    {
+        "Value": "poznan",
+        "Miasto": "Poznań",
+        "Ciekawostki": "Jezioro Maltańskie jest sztucznym jeziorem, zostało utworzone w 1952 roku, powstało przez spiętrzenie rzeki Cybina i jest jednym z najważniejszych torów wioślarskich w Polsce. W mieście działa Ogród Botaniczny Uniwersytetu im. Adama Mickiewicza, powstał w 1925 roku, rośnie tam kilka tysięcy gatunków roślin z całego świata.",
+        "Atrakcje": "Stary Rynek w Poznaniu to jedno z najpiękniejszych miejsc w mieście. Ostrów Tumski - najstarsza część Poznania. Zamek w Kórniku (ok. 25 km od Poznania)",
+        "Położenie": 555555
+    },
+    {
+        "Value": "zGora",
+        "Miasto": "Zielona Góra",
+        "Ciekawostki": "Zielona Góra należy do najbardziej zielonych miast w Polsce. Około połowę powierzchni okolic miasta zajmują lasy, dominują tam lasy sosnowe, żyją tam m.in. sarny, dziki, lisy i wiele gatunków ptaków. W Zielonej Górze znajduje się jedno z najwyższych wzniesień w regionie - Góra Wilkanowska. Okolice miasta są znane z winnic i upraw winogron. Tradycja produkcji wina sięga tu średniowiecza, sprzyja temu łagodniejszy klimat i nasłonecznione wzgórza, co roku odbywa się tam święto wina - Winobranie w Zielonej Górze.",
+        "Atrakcje": "Konkatedra św. Jadwigi Śląskiej. Palmiarnia w Zielonej Górze. Zamek w Łagowie (ok. 50 km od Zielonej Góry)",
+        "Położenie": 555555
+    },
+    {
+        "Value": "katowice",
+        "Miasto": "Katowice",
+        "Ciekawostki": "Niedaleko centrum Katowic znajduje się Park Śląski, to jeden z największych parków miejskich w Europie, ma ponad 500 hektarów powierzchni, znajdują się tam lasy, jeziora i wiele gatunków roślin oraz zwierząt. Na terenie miasta znajduje się Rezerwat przyrody Las Murckowski chroni on stare lasy bukowe. W Katowicach znajduje się wiele stawów. Jednym z najbardziej znanych miejsc jest Dolina Trzech Stawów.",
+        "Atrakcje": "Narodowa Orkiestra Symfoniczna Polskiego Radia (NOSPR). Muzeum Śląskie. Park Śląski w Chorzowie (ok. 5 km od Katowic)",
+        "Położenie": 555555
+    },
+    {
+        "Value": "krakow",
+        "Miasto": "Kraków",
+        "Ciekawostki": "W centrum Krakowa znajduje się Wzgórze Wawelskie. Wzgórze zbudowane jest z wapienia, powstało miliony lat temu na dnie dawnego morza, w jego wnętrzu znajdują się naturalne jaskinie, np. Smocza Jama. Jednym z najbardziej charakterystycznych terenów zielonych są Błonia Krakowskie, to ogromna łąka w centrum miasta, zajmuje około 48 hektarów. W mieście znajduje się ogród botaniczny z tysiącami roślin",
+        "Atrakcje": "Wawel - Zamek Królewski i Katedra. Rynek Główny i Sukiennice. Kopalnia Soli w Wieliczce (ok. 15 km od Krakowa)",
+        "Położenie": 555555
+    },
+    {
+        "Value": "rzeszow",
+        "Miasto": "Rzeszów",
+        "Ciekawostki": "Rzeszów otaczają łagodne wzgórza i lasy, które są częścią Pogórza Dynowskiego i Pogórza Strzyżowskiego. Przez Rzeszów przepływa rzeka Wisłok, tworząca ciekawe tereny przyrodnicze. W samym Rzeszowie znajduje się kilka dużych parków, np. Park im. Solidarności i Planty.",
+        "Atrakcje": "Zamek Lubomirskich. Park i Aleja Pod Kasztanami. Jaskinie i atrakcje przyrodnicze w okolicach Rzeszowa - Rezerwat Prządki (ok. 40 km)",
+        "Położenie": 555555
+    },
+    {
+        "Value": "warszawa",
+        "Miasto": "Warszawa",
+        "Ciekawostki": "W Warszawie znajduje się jeden z najstarszych ogrodów botanicznych w Polsce. Został założony w 1818 roku. Park Skaryszewski jest jednym z najpiękniejszych i największych parków w Warszawie. Został założony na początku XX wieku i zajmuje ponad 50 hektarów powierzchni. Miejski Ogród Zoologiczny im. Antoniny i Jana Żabińskich jest jednym z największych ogrodów zoologicznych w Polsce. ",
+        "Atrakcje": "Stare Miasto w Warszawie. Łazienki Królewskie. Pałac Kultury i Nauki",
+        "Położenie": 555555
+    },
+    {
+        "Value": "lodz",
+        "Miasto": "Łódź",
+        "Ciekawostki": "Las Łagiewnicki, jest to jeden z największych lasów znajdujących się w granicach miasta w Europie. Zajmuje kilka tysięcy hektarów i jest ważnym miejscem wypoczynku dla mieszkańców. Ogród Botaniczny to bardzo duży ogród, w którym rosną tysiące gatunków roślin z różnych części świata. Palmiarnia - znajduje się w Parku Źródliska i jest jednym z najstarszych takich obiektów w Polsce. W szklarniach rosną egzotyczne rośliny, takie jak palmy, paprocie, kaktusy czy storczyki",
+        "Atrakcje": "Ulica Piotrkowska. Manufaktura. Księży Młyn - to zabytkowe osiedle przemysłowe z XIX wieku, zbudowane przez przemysłowca Karola Scheiblera dla pracowników fabryki.",
+        "Położenie": 555555
+    },
+    {
+        "Value": "kielce",
+        "Miasto": "Kielce",
+        "Ciekawostki": "Rezerwat Kadzielnia to dawny kamieniołom wapienia, który obecnie jest rezerwatem przyrody i jedną z największych atrakcji miasta. Geopark Kielce to wyjątkowe miejsce, które pokazuje historię geologiczną regionu świętokrzyskiego. Karczówka to wzgórze znajdujące się niedaleko centrum miasta. Znajduje się tam klasztor oraz piękne tereny spacerowe. W dawnych czasach wydobywano tam rudy ołowiu, dlatego teren ma także znaczenie historyczne i geologiczne.",
+        "Atrakcje": "Katedra Wniebowzięcia Najświętszej Maryi Panny. Pałac Biskupów Krakowskich. Muzeum Zabawek i Zabawy",
+        "Położenie": 555555
+    },
+    {
+        "Value": "gdansk",
+        "Miasto": "Gdańsk",
+        "Ciekawostki": "Na terenie Gdańska znajduje się wyspa z dwoma rezerwatami przyrody - m.in. Rezerwat przyrody Ptasi Raj. Część Gdańska znajduje się w ogromnym kompleksie leśnym – Trójmiejski Park Krajobrazowy. Dzięki temu w granicach miasta można spotkać dzikie zwierzęta, np. sarny, dziki czy lisy. To jeden z największych miejskich parków krajobrazowych w Polsce. Na obszarze Gdańska istnieje wiele cennych terenów przyrodniczych - m.in. 2 zespoły przyrodniczo-krajobrazowe i aż 16 użytków ekologicznych, które chronią różne ekosystemy: wydmy, mokradła, lasy i nadmorskie łąki.",
+        "Atrakcje": "Długi Targ i Fontanna Neptuna. Bazylika Mariacka w Gdańsku. Muzeum II Wojny Światowej w Gdańsku",
+        "Położenie": 555555
+    }
+]

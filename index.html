@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projekt Miasta</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+  <header>
+    <p class="label">Projekt 3bT5</p>
+    <h1>Atlas Miast</h1>
+    <p class="opis">Wybierz miasto i odkryj jego ciekawostki</p>
+    <p class="autorzy">Projekt został stworzony przez: Dominika Czarkowska, Julia Puchal, Lena Siedlarz, Martyna Guzik, Zuzanna Stawarczyk</p>
+  </header>
+
+  <div class="miasta">
+    <p class="field-label">Wybierz miasto</p>
+    <select class="wyborMiast">
+      <option value="">— wybierz z listy —</option>
+      <option value="szczecin">Szczecin</option>
+      <option value="gdansk">Gdańsk</option>
+      <option value="olsztyn">Olsztyn</option>
+      <option value="bialystok">Białystok</option>
+      <option value="gorzow">Gorzów Wielkopolski</option>
+      <option value="zGora">Zielona Góra</option>
+      <option value="poznan">Poznań</option>
+      <option value="bydgoszcz">Bydgoszcz</option>
+      <option value="torun">Toruń</option>
+      <option value="warszawa">Warszawa</option>
+      <option value="lodz">Łódź</option>
+      <option value="kielce">Kielce</option>
+      <option value="lublin">Lublin</option>
+      <option value="wroclaw">Wrocław</option>
+      <option value="opole">Opole</option>
+      <option value="katowice">Katowice</option>
+      <option value="krakow">Kraków</option>
+      <option value="rzeszow">Rzeszów</option>
+    </select>
+
+    <button onclick="pokazMiasto()">Pokaż informacje</button>
+
+    <div class="wynik"></div>
+  </div>
+
+  <script src="./program.js"></script>
+</body>
+</html>

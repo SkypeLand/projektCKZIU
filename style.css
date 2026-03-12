@@ -1,0 +1,205 @@
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --cream: #f9f5ef;
+  --ink: #1a1a2e;
+  --accent: #c0392b;
+  --muted: #7f8c8d;
+  --border: #ddd5c8;
+  --card-bg: #ffffff;
+  --shadow: 0 4px 24px rgba(0,0,0,0.08);
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #f9f5ef;
+  color: #1a1a2e;
+  min-height: 100vh;
+  line-height: 1.7;
+}
+
+/* HEADER */
+header {
+  background-color: #1a1a2e;
+  color: #f9f5ef;
+  padding: 60px 40px 50px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+header::after {
+  content: '';
+  display: block;
+  width: 80px;
+  height: 3px;
+  background: #c0392b;
+  margin: 20px auto 0;
+}
+
+header .label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: #c0392b;
+  margin-bottom: 16px;
+}
+
+header h1 {
+  font-family: serif;
+  font-size: clamp(2.4rem, 6vw, 4rem);
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-bottom: 14px;
+}
+
+header .opis {
+  font-size: 1.05rem;
+  font-weight: 300;
+  color: #b0a99f;
+  margin-bottom: 28px;
+}
+
+header .autorzy {
+  font-size: 0.78rem;
+  color: #6b6b7a;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.miasta {
+  max-width: 680px;
+  margin: 60px auto;
+  padding: 0 24px;
+}
+
+.field-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #7f8c8d;
+  margin-bottom: 10px;
+}
+
+select.wyborMiast {
+  width: 100%;
+  padding: 14px 18px;
+  font-family: sans-serif;
+  font-size: 1rem;
+  color: #1a1a2e;
+  background-color: #ffffff;
+  border: 1.5px solid #ddd5c8;
+  border-radius: 4px;
+  appearance: none;
+  -webkit-appearance: none;
+  background-repeat: no-repeat;
+  background-position: right 16px center;
+  cursor: pointer;
+  transition: border-color 0.2s;
+  margin-bottom: 16px;
+}
+
+select.wyborMiast:focus {
+  outline: none;
+  border-color: #c0392b;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 14px 24px;
+  font-family: sans-serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  color: #f9f5ef;
+  background-color: #c0392b;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s, transform 0.1s;
+}
+
+button:hover {
+  background-color: #a93226;
+}
+
+button:active {
+  transform: scale(0.99);
+}
+
+/* RESULT CARD */
+.wynik {
+  margin-top: 40px;
+}
+
+.wynik:empty {
+  display: none;
+}
+
+.wynik p {
+  color: #7f8c8d;
+  font-style: italic;
+  text-align: center;
+  padding: 24px 0;
+}
+
+.wynik h2 {
+  font-family: serif;
+  font-size: 2rem;
+  color: #1a1a2e;
+  margin-bottom: 4px;
+  padding-bottom: 16px;
+  border-bottom: 1.5px solid #ddd5c8;
+}
+
+.wynik h3 {
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #c0392b;
+  margin: 28px 0 8px;
+}
+
+.wynik > h2,
+.wynik > h3,
+.wynik > p {
+  animation: fadeUp 0.35s ease both;
+}
+
+.wynik > h3:nth-of-type(2),
+.wynik > p:nth-of-type(2) {
+  animation-delay: 0.08s;
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 520px) {
+  header {
+    padding: 40px 24px 36px;
+  }
+
+  .miasta {
+    margin: 40px auto;
+  }
+}
